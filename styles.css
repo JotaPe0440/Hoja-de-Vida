@@ -1,0 +1,51 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    color: #333;
+    background-color: #f4f4f4;
+}
+
+header {
+    background-color: #b93434;
+    color: white;
+    text-align: center;
+    padding: 1em 0;
+}
+
+header h1 {
+    margin: 0;
+    font-size: 2em;
+}
+
+header p {
+    margin: 0;
+    font-size: 1.2em;
+}
+
+section {
+    margin: 20px;
+    padding: 20px;
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(73, 2, 2, 0.1);
+}
+
+h2 {
+    border-top: 2px solid #e61c1c;
+    padding-top: 10px;
+    margin-top: 20px;
+    border-bottom: 2px solid #e61c1c;
+    padding-bottom: 10px;
+    margin-bottom: 20px;
+}
+
+.experiencia-item,
+.educacion-item {
+    margin-bottom: 20px;
+}
+
+ul {
+    list-style-type: disc;
+    margin-left: 20px;
+}
